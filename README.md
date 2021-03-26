@@ -1,1 +1,1 @@
-# react-native_study
+# react_native_study_expo
